@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Taehwa_Hong&fontSize=90)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
+
+
+
 <!--
 **jkar3618/jkar3618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
