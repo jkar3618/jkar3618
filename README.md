@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Taehwa_Hong&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkar3618&show_icons=true&theme=radical)
 
 
 
